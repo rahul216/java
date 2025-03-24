@@ -21,7 +21,7 @@ public void actionPerformed(ActionEvent e){
         String s1=t1.getText();
         int a1=Integer.parseInt(s1);
         int n=a1*a1;
-        String s2=String.valueOf(true);
+        String s2=String.valueOf(n);
     }
     else if (e.getSource()==b2){
         t1.setText("Tannu");

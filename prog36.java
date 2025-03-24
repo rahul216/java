@@ -4,7 +4,7 @@ class MyException extends Exception {
     }
 }
 
-public class except4 {
+public class prog36 {
     public static void main(String[] args) {
         int a, b, c;
         a = 10;

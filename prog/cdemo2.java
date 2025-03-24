@@ -18,7 +18,7 @@ public class cdemo2 {
             System.out.println(e2);
         }
         finally{
-            System.out.println("This will always be excectued "45);
+            System.out.println("This will always be excectued ");
         }
     }
 }
